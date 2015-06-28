@@ -1,0 +1,5 @@
+UI_DE = {
+    UI_optionscreen_binding_RMTESTMOD = "Custom Mod",
+    UI_optionscreen_binding_TOGGLE_STUFF = "Toggle some functionality",
+    UI_optionscreen_binding_TOGGLE_OTHER = "Toggle other functionality",
+};
