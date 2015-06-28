@@ -1,4 +1,4 @@
 name=KeyBinding Injector (1.0.0)
-description=An example mod for adding custom keybindings to Project Zomboid.
+description=An example of how to add custom keybindings to Project Zomboid.
 id=RMKeyBindings
 poster=poster.png
