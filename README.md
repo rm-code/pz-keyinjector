@@ -15,8 +15,8 @@ local CUSTOM_SECTION = 'RMTESTMOD';
 -- The keys we want to register at the beginning of the game.
 local CUSTOM_KEYS = {
     { value = 'TOGGLE_STUFF', key = 24 },
-	{ value = 'TOGGLE_OTHER', key = 25 },
-	-- Add more keys here
+    { value = 'TOGGLE_OTHER', key = 25 },
+    -- Add more keys here
 }
 
 ```
