@@ -30,4 +30,4 @@ local function initKeyInjector()
     injectKeys(CUSTOM_SECTION, CUSTOM_KEYS);
 end
 
-Events.OnGameBoot.Add(initKeyInjector)
+Events.OnGameBoot.Add(initKeyInjector);
