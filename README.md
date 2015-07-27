@@ -4,9 +4,9 @@ An example of how to add custom keybindings to [Project Zomboid](http://projectz
 
 ![poster](https://raw.githubusercontent.com/rm-code/pz-keyinjector/develop/poster.png)
 
-## How To Use
+## Usage Instructions
 
-To add custom keys for your own mod you will need to modify the constants _CUSTOM_SECTION_ and _CUSTOM_KEYS_ in [_KeyInjector.lua_](https://raw.githubusercontent.com/rm-code/pz-keyinjector/develop/media/lua/client/KeyInjector.lua)
+To add custom keys for your own mod you will need to modify the constants _CUSTOM_SECTION_ and _CUSTOM_KEYS_ in [_KeyInjector.lua_](https://raw.githubusercontent.com/rm-code/pz-keyinjector/develop/media/lua/client/KeyInjector.lua):
 
 ```
 -- The custom section which will be used as a separator in the options.
@@ -33,3 +33,5 @@ UI_DE = {
 ```
 
 To avoid conflicts with other mods you should try to choose unique identifiers for your translation files / strings.
+
+If you need a "real-world" example, check out the [Better Shouts](https://github.com/rm-code/Better-Shouts) mod, which adds a custom key code for shouting.
